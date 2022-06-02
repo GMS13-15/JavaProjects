@@ -20,6 +20,6 @@ t.penup()
 t.goto(-75,130)
 t.pendown()
 t.color('white')
-t.write('GM Snegha',font=("verdana",11,"bold"))
+t.write('GM',font=("verdana",11,"bold"))
 
 turtle.done()
