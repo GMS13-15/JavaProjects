@@ -20,6 +20,6 @@ t.penup()
 t.goto(-75,130)
 t.pendown()
 t.color('white')
-t.write('Heart',font=("verdana",10,"bold"))
+t.write('Type Your name here',font=("verdana",10,"bold"))
 
 turtle.done()
